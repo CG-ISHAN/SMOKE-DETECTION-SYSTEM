@@ -49,7 +49,7 @@ You don't need to download any code to see this in action!
 
 Click the Tinkercad link below:
 
-https://www.tinkercad.com/things/4UMnJ9gIIVC/editel?returnTo=%2Fdashboard
+[https://www.tinkercad.com/things/4UMnJ9gIIVC/editel?returnTo=%2Fdashboard](https://www.tinkercad.com/things/4UMnJ9gIIVC-smoke-detector)
 
 Click the green "Start Simulation" button in Tinkercad.
 
